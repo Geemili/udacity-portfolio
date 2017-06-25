@@ -12,9 +12,12 @@
 
 .header-name {
     grid-area: name;
+    text-align: right;
+    font-size: 24pt;
 }
 
 .header-title {
     grid-area: title;
+    text-align: right;
 }
 
