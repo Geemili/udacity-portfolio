@@ -1,4 +1,6 @@
 
+/* Header Section */
+
 .header {
     display: grid;
     grid-template-areas:
@@ -27,5 +29,17 @@
     font-size: 12pt;
     font-weight: normal;
     margin: 0px;
+}
+
+/* Project Section */
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.project {
+    min-width: 320px;
 }
 
