@@ -8,12 +8,14 @@
 
 .header-logo {
     grid-area: img;
+    height: auto;
+    max-height: 100%;
 }
 
 .header-name {
     grid-area: name;
     text-align: right;
-    font-size: 24pt;
+    font-size: 20pt;
 }
 
 .header-title {
