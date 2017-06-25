@@ -1,0 +1,20 @@
+
+.header {
+    display: grid;
+    grid-template-areas:
+        "img name"
+        "img title";
+}
+
+.header-logo {
+    grid-area: img;
+}
+
+.header-name {
+    grid-area: name;
+}
+
+.header-title {
+    grid-area: title;
+}
+
