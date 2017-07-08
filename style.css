@@ -31,6 +31,10 @@
     margin: 0px;
 }
 
+.container {
+    max-width: 100%;
+}
+
 /* Project Section */
 
 .projects {
