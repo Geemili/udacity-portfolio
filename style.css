@@ -28,7 +28,7 @@
     text-align: right;
     font-size: 12pt;
     font-weight: normal;
-    margin: 0px;
+    margin: 0;
 }
 
 .container {
@@ -59,4 +59,3 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
